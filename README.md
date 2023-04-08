@@ -1,6 +1,7 @@
 # HyGem-Oua-GamJam
 
 
+
 Selam.
 
 Mert
@@ -16,4 +17,8 @@ Mert
 sfsdfgfsdgdfgdg...
 
           dfgdfg...
+
+
+Deneme Halis
+Deneme Gorkem
 
