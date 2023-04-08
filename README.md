@@ -1,3 +1,3 @@
 # HyGem-Oua-GamJam
 
-Mert ilk geliştirme
+Mert ilk geliştirme 2
